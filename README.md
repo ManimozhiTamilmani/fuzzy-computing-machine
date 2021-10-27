@@ -4,7 +4,7 @@ A prompt pops up to ask the user to enter a number
 User enters a number(n) to print the number of terms in fibonacci series(sum of 2 previous numbers) and clicks ok/enter
 
 Steps that happens in the compiler:
-As per the code, we have declared an array variable, 'fs' and initialized 2 variables: n1=0 and n2=1 and an empty variable 'nextTerm'.
+As per the code, I have declared an array variable, 'fs' and initialized 2 variables: n1=0 and n2=1 and an empty variable 'nextTerm'.
 when it enters the for loop, it checks for 'n' value and it compares with the for loop variable i. It has been initialized to 1.
 a. when i=1 and 1<=8, condition is satisfied(1<8) and it enters into the for loop 
    It pushes 'n1' value into the array variable 'fs'. Now, fs = 0
